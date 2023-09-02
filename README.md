@@ -1,4 +1,4 @@
 # Python-Work
-Thease are the basics of python.
-<br><br>
 Hi! Everyone.
+<br><br>
+These are the basics of python.
